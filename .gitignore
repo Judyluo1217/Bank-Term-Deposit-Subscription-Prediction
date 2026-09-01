@@ -1,5 +1,3 @@
-.gitignore
-
 __pycache__/
 *.pyc
 
@@ -12,14 +10,11 @@ env/
 
 .DS_Store
 Thumbs.db
-
-data/
+.Rhistory
 
 *.model
 *.pkl
 *.h5
-
-*.csv
 *.xlsx
 *.parquet
 *.json
